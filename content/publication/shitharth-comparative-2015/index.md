@@ -1,0 +1,39 @@
+---
+title: A Comparative Analysis between Two Countermeasure Techniques to Detect DDoS
+  with Sniffers in a SCADA Network
+authors:
+- admin
+- D. Prince Winston
+date: '2015-01-01'
+publishDate: '2024-01-24T08:50:26.110222Z'
+publication_types:
+- article-journal
+publication: '*Procedia Technology*'
+doi: 10.1016/j.protcy.2015.10.086
+abstract: Smart grid doesn’t have a single standard definition to define it. Commonly,
+  Smart Grid is an incorporation of advanced technologies over the normal electrical
+  grid. Smart grid provides some novel features that mainly includes two way communication
+  and automatic self-healing capability. Like Internet, Smart Grid also consists of
+  many new technologies and equipment that are bind together. These technologies works
+  with the electrical grid and respond digitally to our quickly changing electric
+  demand. Even though it is stuffed with pros, it suffers a lot due to its fragile
+  data security. Smart grid usually have a centralized control system called SCADA
+  to monitor and maintain all the data sources. Attackers would always tend to sneak
+  through this centralized system through numerous types of attacks. Since SCADA system
+  has no definite protocol, it could be adopted with any kind of protocol that is
+  required by the utility. Usually, there are certain tools which are commonly used
+  in the IT and corporate systems. But how long it is compatible with SCADA network
+  is always questionable In this paper, a comparison of countermeasure between the
+  proposed methodology and the security tools (Wireshark, tcpdump) is been analyzed
+  under Distributed Denial of Service (DDoS) with Sniffing attacks . The security
+  system apt for SCADA network is analyzed on the basis of bandwidth consumption and
+  traffic analyzing capacity.
+tags:
+- Cyber Threats
+- Network Security
+- Security
+- Smart grid
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S221201731500314X
+---

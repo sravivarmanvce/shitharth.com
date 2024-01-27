@@ -1,0 +1,36 @@
+---
+title: Mathematical approach of fiber optics for renewable energy sources using general
+  adversarial networks
+authors:
+- Tawfiq Hasanin
+- Hariprasath Manoharan
+- Hassan A. Alterazi
+- Gautam Srivastava
+- admin
+- Jerry Chun-Wei Lin
+date: '2023-01-01'
+publishDate: '2024-01-23T11:26:30.430838Z'
+publication_types:
+- article-journal
+publication: '*Frontiers in Ecology and Evolution*'
+abstract: It is significantly more challenging to extend the visibility factor to
+  a higher depth during the development phase of a communication system for subterranean
+  places. Even if there are numerous optical fiber systems that provide the right
+  energy sources for intended panels, the visibility parameter is not optimized past
+  a certain point. Therefore, the suggested method looks at the properties of a fiber
+  optic communication system that is integrated with a certain energy source while
+  having external panels. A regulating state is established in addition to characteristic
+  analysis by minimizing the reflection index, and the integration of the general
+  adversarial network (GAN) optimizes both central and layer formations in exterior
+  panels. Thus, the suggested technique uses the external noise factor to provide
+  relevant data to the control center via fiber optic shackles. As a result, the normalized
+  error is smaller, boosting the suggested method's effectiveness in all subsurface
+  areas. The created mathematical model is divided into five different situations,
+  and the results are simulated using MATLAB to test the effectiveness of the anticipated
+  strategy. Additionally, comparisons are done for each of the five scenarios, and
+  it is found that the proposed fiber-optic method for energy sources is far more
+  effective than current methodologies.
+links:
+- name: URL
+  url: https://www.frontiersin.org/articles/10.3389/fevo.2023.1132678
+---

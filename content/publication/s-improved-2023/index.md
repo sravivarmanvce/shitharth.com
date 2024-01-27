@@ -1,0 +1,45 @@
+---
+title: Improved Security for Multimedia Data Visualization Using Hierarchical Clustering
+  Algorithm
+authors:
+- admin
+- Hariprasath Manoharan
+- Alaa O. Khadidos
+- Achyut Shankar
+- Carsten Maple
+- Adil O. Khadidos
+- Shahid Mumtaz
+date: '2023-07-01'
+publishDate: '2024-01-23T11:26:30.272851Z'
+publication_types:
+- article-journal
+publication: '*ACM Transactions on Multimedia Computing, Communications, and Applications*'
+doi: 10.1145/3610296
+abstract: In this paper, a realization technique is designed with unique analytical
+  model for transmitting multimedia data to appropriate end users. Transmission of
+  multimedia data to all end users through a variety of visualization methods is the
+  foundation of future computer systems. Yet, highly limited system resources prevent
+  the updating of the methods used to manage multimedia data. Hence, a high-end visualization
+  technique where uncertainties are eliminated is required for the visualization process
+  with a multimedia system. As a result, the suggested system incorporates a clustering
+  technique utilizing an analytical framework to ensure a high degree of transmission
+  for all multimedia data. The technical contribution of the proposed method depend
+  on multimedia visualization process that takes place with high security features
+  by including necessary parametric relationships such as occurrence of jitter, data
+  density points, time period, multimedia storage, data smoothness and distance. For
+  the established parametric relationship the validation methodology is integrated
+  with hierarchical clustering algorithm thereby transmitting every clustered data
+  with high security feature thereby the examined outcomes under five scenarios proves
+  that data security which is represented by simulation outcomes is improved to 88%
+  as compared to existing approach.
+tags:
+- Clustering
+- Delay
+- Density functions
+- Multimedia
+- Security
+- Visualizations
+links:
+- name: URL
+  url: https://dl.acm.org/doi/10.1145/3610296
+---

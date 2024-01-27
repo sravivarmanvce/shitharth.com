@@ -1,0 +1,50 @@
+---
+title: CNN based Prediction Analysis for Web Phishing Prevention
+authors:
+- M. Amanullah
+- V Selvakumar
+- Abhay Jyot
+- Nitin Purohit
+- admin
+- Mochammad Fahlevi
+date: '2022-10-01'
+publishDate: '2024-01-24T04:48:01.471135Z'
+publication_types:
+- paper-conference
+publication: '*2022 International Conference on Edge Computing and Applications (ICECAA)*'
+doi: 10.1109/ICECAA55415.2022.9936112
+abstract: Phishing has grown into one of the major and supreme operative in cyber
+  threats, triggering millions of data breaches and security failures every year.
+  This paper proposes a CNN based prediction analysis using Optimistic Multi centric
+  feature extraction for phishing attack detection technique that uses only URL functions
+  to expedite and accurately locate phishing websites and explore structured databases.
+  Using anti-phishing technology requires experts to extract the characteristics of
+  phishing URL sites and use behavioral principle which is identified through URL
+  Behavioral Rectifier (U-BR). Then the feature dependability is supported to create
+  URL probability phishing index (U-PFI) to identify the relative weight for detection
+  of phishing sites. By attaining the feature weight, the features are observed using
+  Optimized Multi Centric Feature Selection (OMCFS) issued to reduce the dimension
+  Log variation, and then the selected features get trained through Conventional Neural
+  Network (CNN). This method predicts the legitimacy of URLs without the access to
+  web content to find the phishing and depends on domain related service. The proposed
+  technique converts URLs into standard size scales using writing embedding techniques,
+  separates features at different levels using the CNN model, and classifies the features
+  as risk by category.
+tags:
+- Feature extraction
+- Behavioral Rectifier
+- CNN
+- Databases
+- feature selection
+- Phishing
+- Phishing detection URL
+- prediction and analysis
+- Rectifiers
+- Sensitivity
+- Uniform resource locators
+- web domain
+- Writing
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/9936112
+---

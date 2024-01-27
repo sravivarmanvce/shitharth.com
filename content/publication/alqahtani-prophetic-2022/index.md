@@ -1,0 +1,43 @@
+---
+title: Prophetic Energy Assessment with Smart Implements in Hydroelectricity Entities
+  Using Artificial Intelligence Algorithm
+authors:
+- Abdullah Saleh Alqahtani
+- Pravin R. Kshirsagar
+- Hariprasath Manoharan
+- Praveen Kumar Balachandran
+- C. K. Yogesh
+- admin
+date: '2022-10-01'
+publishDate: '2024-01-24T04:48:01.371706Z'
+publication_types:
+- article-journal
+publication: '*International Transactions on Electrical Energy Systems*'
+doi: 10.1155/2022/2376353
+abstract: An encouraging development is the quick expansion of renewable energy extraction.
+  Harnessing renewable energy is economically feasible at the current rate of technological
+  advancement. Traditional energy sources, such as coal, petroleum, and hydrocarbons,
+  which have negative effects on the environment, are coming under more social and
+  financial pressure. Companies need more solar and wind power because this calls
+  for a well-balanced mix of renewable resources and a higher proportion of alternative
+  energy sources. Sustainable energy can be captured using a variety of techniques.
+  Massive scale and small-sized are the two most prevalent techniques. No renewable
+  energy source possesses an inherent property that restricts how it may be managed
+  or how it can be planned to produce electricity. A number of factors have contributed
+  to a growth in the use of alternative sources, one of which is to mitigate the effects
+  of rising temperatures. To improve the ability to estimate renewable energy, various
+  modeling approaches have been created. This region might use an HRES to give many
+  sources with the inclusion of different energy sources. The inventiveness of solar
+  and wind power and the brilliant ability of neural networks to handle complex time-series
+  data signals have both aided in the prediction of sustainable energy. Therefore,
+  this research will examine the numerous information models in order to determine
+  which proposed models can provide accurate projections of renewable energy output,
+  such as sunlight, wind, or pumped storage. In the fields of sustainable energy predictions,
+  a number of machine learning methods, such as multilayer perceptions MLP, RNN CNN,
+  and LSTM designs, are frequently utilized. This form of modeling uses historical
+  data to predict potential values and can predict short-term patterns in solar and
+  wind generation.
+links:
+- name: URL
+  url: https://www.hindawi.com/journals/itees/2022/2376353/
+---
