@@ -5,7 +5,7 @@ authors:
 - admin
 - Pradosh Chandra Patnaik
 date: -01-01
-publishDate: '2024-01-28T08:39:14.296508Z'
+publishDate: '2018-06-01T08:39:14.296508Z'
 publication_types:
 - patent
 abstract: "Supervisory Control and Data Acquisition (SCADA) systems are widely used

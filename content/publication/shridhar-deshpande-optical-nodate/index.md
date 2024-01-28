@@ -6,7 +6,7 @@ authors:
 - Naveen Kumar B M
 - admin
 date: -01-01
-publishDate: '2024-01-28T08:39:14.310270Z'
+publishDate: '2018-09-14T08:39:14.310270Z'
 publication_types:
 - patent
 abstract: An embodiment of the present invention provide for an optical 3D Puzzle

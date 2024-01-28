@@ -5,7 +5,7 @@ authors:
 - M. Saravanan
 - admin
 date: -01-01
-publishDate: '2024-01-28T08:39:14.303658Z'
+publishDate: '2018-08-17T08:39:14.303658Z'
 publication_types:
 - patent
 abstract: In Wireless Local Area Network (WLAN) technology, access point selection

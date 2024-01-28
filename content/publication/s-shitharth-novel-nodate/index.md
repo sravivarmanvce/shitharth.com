@@ -11,7 +11,7 @@ authors:
 - K. Sangeetha
 - MD JAFFAR SADIQ
 date: -01-01
-publishDate: '2024-01-28T08:39:14.288669Z'
+publishDate: '2021-02-26T08:39:14.288669Z'
 publication_types:
 - patent
 abstract: In a neural network, for classifying any high dimensional data, SOM (Self
