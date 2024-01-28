@@ -1,0 +1,23 @@
+---
+title: ACCESS POINT SELECTION FOR FAIR LOAD BALANCING IN WIRELESS LOCAL AREA NETWORKS
+authors:
+- S. Venkatesan
+- M. Saravanan
+- S. Shitharth
+date: -01-01
+publishDate: '2024-01-28T08:39:14.303658Z'
+publication_types:
+- patent
+abstract: In Wireless Local Area Network (WLAN) technology, access point selection
+  at each Station is a critical problem in order to obtain satisfactory throughput
+  and bandwidth. The traffic load of WLANs is often unevenly distributed among the
+  Access Points (APs) which result unfair bandwidth allocation among Mobile Users
+  (MUs). In this paper. the proposed algorithm has been presented as an efficient
+  Solution to determine the Mobile User (MU)-Access Point (AP) associations for better
+  bandwidth allocation of MUs and better throughput. Load balancing procedure namely
+  Load Balancing Algorithm (LBA), which acts in two separate levels. First that will
+  maintain load of the APs are fair when new MU is going to be joined and second is
+  whenever the existing MU is going to be relieved. The experimental results of the
+  proposed algorithm indicate that the proposed algorithm achieves Performance improvements
+  in throughput and bandwidth allocation compared with previous algorithms.
+---
