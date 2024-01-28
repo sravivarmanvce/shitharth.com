@@ -1,0 +1,30 @@
+---
+title: A novel method to detect adversaries using MSOM algorithm’s longitudinal conjecture
+  model in SCADA network
+authors:
+- S. Venkatesan K. Sangeetha
+date: '2020-11-01'
+publishDate: '2024-01-28T08:39:14.254826Z'
+publication_types:
+- article-journal
+publication: '*Solid State Technology*'
+abstract: -In a neural network, for classifying any high dimensional data, SOM (Self
+  OrganizingMaps) is highly preferred. Self-Organizing Maps (SOM) are unsupervised
+  neural networks thatcluster high dimensional data and transform complex inputs into
+  easily understandableinputs. It works on data sets and used to find previously unknown
+  patterns. Patterns help incategorizing elements for finding an association between
+  them. They can detect theadversaries and defects in the data. Neural networks are
+  considered as one of the prolificunsupervised learning methods which are a fast,
+  and powerful technique that can be used tosolve many real-world problems. These
+  networks are widely used for data representation. Anunsupervised algorithm has to
+  understand the patterns in the data and then further process thedesired output.
+  This research proposes a modified neural network algorithm called MUSOM(mutated
+  Self Organizing Maps). This algorithm has two major conjectures based on attacker’sresponse
+  on incoming packets from SCADA sensor. It has two components 1.nodes and2.neurons.
+  These nodes and neurons are inter connected with each other. One is used toaccomplish
+  fault tolerance, error correction and dimensionality reduction concerning theunknown
+  anomalies. The next one is to find the outlying anomalies in the network
+links:
+- name: URL
+  url: http://solidstatetechnology.us/index.php/JSST/article/view/4126
+---
