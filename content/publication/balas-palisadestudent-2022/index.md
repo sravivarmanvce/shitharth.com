@@ -4,7 +4,7 @@ authors:
 - Nithin Katla
 - M. Goutham Kumar
 - Rohithraj Pidugu
-- S. Shitharth
+- admin
 date: '2022-01-01'
 publishDate: '2024-01-28T08:39:14.226143Z'
 publication_types:

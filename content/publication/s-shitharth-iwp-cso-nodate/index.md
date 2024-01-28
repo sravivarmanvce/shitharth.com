@@ -2,7 +2,7 @@
 title: IWP-CSO TECHNIQUE FOR FEATURE OPTIMIZATION FRAMEWORK AND A HYBRID HNA-NN TECHNIQUE
   FOR CLASSIFICATION
 authors:
-- S. Shitharth
+- admin
 - Pradosh Chandra Patnaik
 date: -01-01
 publishDate: '2024-01-28T08:39:14.296508Z'

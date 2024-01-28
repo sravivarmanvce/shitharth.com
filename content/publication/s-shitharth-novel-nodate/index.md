@@ -2,7 +2,7 @@
 title: A NOVEL METHOD TO DETECT ADVERSARIES USING MSOM ALGORITHM'S LONGITUDINAL CONJECTURE
   MODEL IN SCADA NETWORK
 authors:
-- S. Shitharth
+- admin
 - Gouse Baig Mohammed
 - Nageswararao Sirisala
 - S. K. Prasanth

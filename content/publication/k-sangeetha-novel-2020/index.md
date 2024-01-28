@@ -2,7 +2,9 @@
 title: A novel method to detect adversaries using MSOM algorithm’s longitudinal conjecture
   model in SCADA network
 authors:
-- S. Venkatesan K. Sangeetha
+- admin
+- S. Venkatesan 
+- K. Sangeetha
 date: '2020-11-01'
 publishDate: '2024-01-28T08:39:14.254826Z'
 publication_types:

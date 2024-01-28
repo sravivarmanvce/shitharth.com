@@ -1,7 +1,7 @@
 ---
 title: A Way to Cyberthon
 authors:
-- ' S.Shitharth'
+- admin
 - ' M.Saravanan'
 - ' S.Venkatesan'
 - ' K.Sangeetha'

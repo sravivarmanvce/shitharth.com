@@ -2,7 +2,7 @@
 title: Integrated Machine Learning Model for an URL Phishing Detection
 authors:
 - Gouse Baig Mohammad
-- S. Shitharth
+- admin
 - Puranam Revanth Kumar
 date: '2021-04-01'
 publishDate: '2024-01-28T08:39:14.247348Z'

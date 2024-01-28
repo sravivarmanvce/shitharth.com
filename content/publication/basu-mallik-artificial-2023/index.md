@@ -3,7 +3,7 @@ title: 'Artificial Neural Networks for Data Processing: A Case Study of Image Cl
 authors:
 - Jayaraj Ramasamy
 - R. N. Ravikumar
-- S. Shitharth
+- admin
 date: '2023-08-01'
 publishDate: '2024-01-28T08:39:14.215688Z'
 publication_types:

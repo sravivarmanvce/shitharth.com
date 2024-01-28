@@ -2,7 +2,7 @@
 title: Comparison of PRC based RVM classification versus SVM classification in SCADA
   network
 authors:
-- Shitharth S
+- admin
 - D. Prince Winston
 date: '2017-02-01'
 publishDate: '2024-01-28T08:39:14.262019Z'

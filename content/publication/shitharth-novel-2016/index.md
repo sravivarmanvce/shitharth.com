@@ -1,7 +1,7 @@
 ---
 title: A novel IDS technique to detect DDoS and sniffers in smart grid
 authors:
-- S. Shitharth
+- admin
 - D. Prince Winston
 date: '2016-02-01'
 publishDate: '2024-01-28T08:39:14.274606Z'

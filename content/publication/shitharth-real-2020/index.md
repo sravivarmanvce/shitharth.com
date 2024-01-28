@@ -2,7 +2,7 @@
 title: Real Time Analysis of Air Pollution Level in Metropolitian Cities by Adopting
   Cloud Computing based Pollution Control Monitoring System using Nano Sensors
 authors:
-- Dr S. Shitharth
+- admin
 - Ms Korukonda Manimala
 - Ms V. V. Bhavani
 - Mr Srikanth Nalluri

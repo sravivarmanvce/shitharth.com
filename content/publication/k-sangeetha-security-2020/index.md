@@ -2,7 +2,9 @@
 title: SECURITY APPRAISAL CONDUCTED ON REAL TIME SCADA DATA SET USING CYBER ANALYTIC
   TOOLS
 authors:
-- S. Venkatesan K. Sangeetha
+- admin
+- S. Venkatesan 
+- K. Sangeetha
 date: '2020-01-01'
 publishDate: '2024-01-28T08:39:14.240343Z'
 publication_types:

@@ -3,7 +3,7 @@ title: ACCESS POINT SELECTION FOR FAIR LOAD BALANCING IN WIRELESS LOCAL AREA NET
 authors:
 - S. Venkatesan
 - M. Saravanan
-- S. Shitharth
+- admin
 date: -01-01
 publishDate: '2024-01-28T08:39:14.303658Z'
 publication_types:
